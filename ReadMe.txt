@@ -15,6 +15,7 @@ More info on the pricing: https://cloud.google.com/vision/pricing
 
 ID: fypkokyih@gmail.com
 PW: fypsmakokyih
+(this account has been deactivated, need to create your own google account to get a new set of api key)
 
 P.S. 
 This object detection is really reliable and fast compared to other models I have worked with before, I highly recommend it!
