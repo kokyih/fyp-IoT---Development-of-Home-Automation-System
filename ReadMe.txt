@@ -13,9 +13,8 @@ To continue using this api, just need to add your own payment info.
 The api is completely free unless you exceed the free 1000 shots/month threshold
 More info on the pricing: https://cloud.google.com/vision/pricing
 
-ID: fypkokyih@gmail.com
-PW: fypsmakokyih
-(this account has been deactivated, need to create your own google account to get a new set of api key)
+A google account
+(My account has been deactivated, need to create your own google account to get a new set of api key)
 
 P.S. 
 This object detection is really reliable and fast compared to other models I have worked with before, I highly recommend it!
